@@ -10,7 +10,13 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^37.1.0",
+    "@ckeditor/ckeditor5-core": "^37.1.0",
+    "@ckeditor/ckeditor5-engine": "^37.1.0",
+    "@ckeditor/ckeditor5-ui": "^37.1.0",
+    "@ckeditor/ckeditor5-utils": "^37.1.0",
+    "@ckeditor/ckeditor5-vue": "^5.1.0",
     "@ckeditor/ckeditor5-vue2": "^3.0.1",
+    "@hieu1311/ckeditor5-build-classic": "^1.0.1",
     "@nuxtjs/axios": "^5.13.6",
     "core-js": "^3.25.3",
     "nuxt": "^2.15.8",
